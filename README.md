@@ -19,6 +19,8 @@ now we get enter into sever
 ```
  ssh -i <pem_file> ec2-user@<private_ip>
 ```
+
+checkout [get private key](#private-key)
 ```
 docker container ls
 ```
@@ -58,13 +60,19 @@ now go to __putty__
 
 and put IP in Loggin
 
-### How to get private key from AWS
+### Private key
 
 Search for __Esc__ in aws
 
 you will see different __cluster__ , select the cluster which need to do ssh
 
-from __cluster__ select the Task [Screenshot_1]:https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/ecs.png
+from __cluster__ select the Task ![Screenshot_1](https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/ecs.png)
 
-from the __Task__ check for Private key here is [screenshot 2]:https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/private.png
+from the __Task__ check for Private key here is ![screenshot 2](https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/private.png)
+
+Hello, this is some text to fill in this, [here](#how-to-get-private-key-from-aws), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back 
 

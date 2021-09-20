@@ -70,9 +70,7 @@ from __cluster__ select the Task ![Screenshot_1](https://github.com/RahulPhpDev/
 
 from the __Task__ check for Private key here is ![screenshot 2](https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/private.png)
 
-Hello, this is some text to fill in this, [here](#how-to-get-private-key-from-aws), is a link to the second place.
 
-### Place 2
 
-Place one has the fun times of linking here, but I can also link back 
+
 

@@ -58,4 +58,13 @@ now go to __putty__
 
 and put IP in Loggin
 
+### How to get private key from AWS
+
+Search for __Esc__ in aws
+
+you will see different __cluster__ , select the cluster which need to do ssh
+
+from __cluster__ select the Task [Screenshot_1]:https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/ecs.png
+
+from the __Task__ check for Private key here is [screenshot 2]:https://github.com/RahulPhpDev/ssh_in_different_server/blob/main/private.png
 

@@ -18,10 +18,12 @@ now we get enter into sever
 
 ```
  ssh -i <pem_file> ec2-user@<private_ip>
-
-
+```
+```
 docker container ls
+```
 
+```
 docker exec -it  <container_id> /bin/sh
 
 ```
